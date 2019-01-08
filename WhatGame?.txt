@@ -1,0 +1,30 @@
+Peter Koncelik
+peter.e.koncelik@vanderbilt.edu
+
+WhatGame? Introductory Concepts/Ambitions
+
+WhatGame? is a personal project that aims to create a user-friendly, expansive searching algorithm that uses a refined, sorted database to filter out board games and provide suggestions based on user-provided criteria.
+
+AMBITIONS:
+The hobby of boardgaming is ever-growing, and as a personal passion of mine, introducing people to games is a difficult task. This application will hope to suggest board games to players tailored to their desires and needs, in the hopes of expanding the hobby and making it more accessible/less daunting, and more interesting in the process.
+
+FUNCTIONALITY:
+Criteria will include, and is not limited to:
+1. Player Count
+2. Play Time
+3. Complexity
+4. Theme
+5. Mechanics 
+6. Game Style/Flow
+7. Player Age(s)
+
+The more criteria the user specifies, the more refined the search reccomendation results. It is the hope that this software will be implemented in some application form for iOS using swift: hopefully providing information and visualization in a clean and appealing manner. Functionality may also allow the user to input their own library of games, from which selections are made. 
+
+IMPLEMENTATION:
+Implementation is still in the planning stages. Most likely:
+Interface: Swift (iOS), HTML/CSS, or Javascript
+Source Code/Algorithm(s): C++
+Database Storage/Management: SQL Server (TBD) 
+
+Please visit boardgamegeek.com for more information on the cool and fun hobby that this application seeks to assist.
+

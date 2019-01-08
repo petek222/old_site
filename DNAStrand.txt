@@ -1,0 +1,14 @@
+Name: Peter Koncelik
+Email: peter.e.koncelik@vanderbilt.edu 
+
+DNA Strand Manipulation Class
+
+This software was created with the intention of use in a laboratory environent varying from biology to genetics. The class allows for the storage and manipulation of large and complex DNA Strand sequences, based upon its 4 nucleobasic compositions: adenine, thymine, guanine, and cytosine. 
+
+Specifically, functionality includes the storage and nomenclature of extended molecules. In terms of manipulation, the class allows DNA Strands to be:
+1. Grown and shrunk with appending sequences on the end of preexisting strands.
+2. Cleaved between repeated, like pairs of repeated strand sequences, mimicking the removal and reassembly of DNA Strands post-cleavage.
+3. Spliced, allowing the insertion of a desired strand in between multiple occurrences of a user-specified sequence of DNA.
+4. Tracked, by counting the repeat occurrences of either the 4 nucleobases, or of a user-specified DNA sequence. 
+
+This software made use of C++ and will be posted to GitHub, along with extended user functionaliy, shortly. 
